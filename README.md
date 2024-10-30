@@ -31,3 +31,5 @@ CSE'26🎓 || learner 🙂||
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu4688&" alt="deepanshu4688" /></p>
 
+## Hacktoberfest 2024 Badges
+[![An image of @deepanshu4688's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepanshu4688)](https://holopin.io/@deepanshu4688)
